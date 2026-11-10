@@ -29,17 +29,6 @@ Estudando desde **2026**, focado em **programação (C e Python), Banco de Dados
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" />
-
----
-
 ### 📁 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
