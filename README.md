@@ -11,7 +11,7 @@ Estudando desde **2026**, focado em **programação (C e Python), Banco de Dados
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU-INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaop.mbz)
 
 ---
 
@@ -34,7 +34,7 @@ Estudando desde **2026**, focado em **programação (C e Python), Banco de Dados
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [Exchange de Criptomoedas](https://github.com/SEU-USUARIO/exchange-criptomoedas) | Sistema em terminal com login de investidor, saldo, extrato, depósito, saque, compra e venda de BTC, ETH e XRP, com cotações e persistência em arquivos `.txt` | C |
-| [FEI TV]([https://github.com/SEU-USUARIO/fei-tv](https://github.com/jotinha2802/FEI-TV)) | Plataforma de streaming em terminal com cadastro e login de usuários, catálogo e busca de filmes (diretor e sinopse), curtidas/descurtidas e lista de favoritos por usuário, com persistência em arquivos `.txt` | Python |
+| [FEI TV](https://github.com/jotinha2802/FEI-TV) | Plataforma de streaming em terminal com cadastro e login de usuários, catálogo e busca de filmes (diretor e sinopse), curtidas/descurtidas e lista de favoritos por usuário, com persistência em arquivos `.txt` | Python |
 
 ---
 
