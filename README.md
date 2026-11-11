@@ -33,7 +33,7 @@ Estudando desde **2026**, focado em **programação (C e Python), Banco de Dados
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Exchange de Criptomoedas](https://github.com/SEU-USUARIO/exchange-criptomoedas) | Sistema em terminal com login de investidor, saldo, extrato, depósito, saque, compra e venda de BTC, ETH e XRP, com cotações e persistência em arquivos `.txt` | C |
+| [Exchange de Criptomoedas](https://github.com/jotinha2802/Exchange-de-Criptomoedas) | Sistema em terminal com login de investidor, saldo, extrato, depósito, saque, compra e venda de BTC, ETH e XRP, com cotações e persistência em arquivos `.txt` | C |
 | [FEI TV](https://github.com/jotinha2802/FEI-TV) | Plataforma de streaming em terminal com cadastro e login de usuários, catálogo e busca de filmes (diretor e sinopse), curtidas/descurtidas e lista de favoritos por usuário, com persistência em arquivos `.txt` | Python |
 
 ---
